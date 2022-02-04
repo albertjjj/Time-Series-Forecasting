@@ -1,0 +1,5 @@
+- This was code I wrote for my extended essay. 
+- The essay was on comparing different time series forecasting algorithms and was an introduction to machine learning for me.
+- The Shampoo.py file is the main code in which I use an example dataset called Shampoo sales and then plug it into the moving average and autoregressive models. 
+- The stockAPI.py file is something extra that I made to find and format historical stock price data so that I can use it with the models. 
+- I tested it with Bitcoina and got surprisingly good results but I wouldn't go buying anything based off of my code.
